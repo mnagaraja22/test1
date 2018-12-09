@@ -13,6 +13,8 @@
 	<!-- testing -->
 	<!-- testing git fetch-->
       <!-- testing git reset-->
+	      <!-- testing git reset1-->
+
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
