@@ -12,6 +12,8 @@
 	<description>Demo project for Spring Boot</description>
 	<!-- testing -->
 	<!-- testing git fetch-->
+      <!-- testing git reset-->
+
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
